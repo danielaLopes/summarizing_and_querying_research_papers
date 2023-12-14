@@ -1,0 +1,20 @@
+# General python and Jupyter Notebook files
+__pycache__/
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Specific to the project
+api_tokens.py
+*.pdf
+summaries.txt
+
+# gradio
+flagged/
